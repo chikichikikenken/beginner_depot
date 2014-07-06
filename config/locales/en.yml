@@ -21,3 +21,9 @@
 
 en:
   hello: "Hello world"
+
+en:
+  activerecord:
+    errors:
+        messages:
+          taken: "has already been taken"
